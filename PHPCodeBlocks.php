@@ -13,6 +13,11 @@ Strict//EN"
 		echo "This text is displayed using standard PHP script delimiters. ";
 	?>
 	</p>
+	<p>  <script language="php">  
+		echo "This text is displayed using a PHP script section. ";
+		</script>  
+		</p> 
+
 </body>  
 </html> 
 
